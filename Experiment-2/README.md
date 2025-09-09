@@ -30,7 +30,7 @@ To detect fire and notify the user by alarm using an **ESP32-S NodeMCU**, flame 
 ---
 
 ## 📊 Flowchart
-📂 [Flowchart](docs/flame_sensor.png)
+📂 [Flame_Sensor_Workflow](docs/flame_sensor.png)
 
 ---
 
